@@ -3,12 +3,16 @@
  */
 package edu.isu.cs.cs2263;
 
+import edu.isu.cs.cs2263.schedule.Course;
+import edu.isu.cs.cs2263.schedule.Student;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+
     }
+
 }
