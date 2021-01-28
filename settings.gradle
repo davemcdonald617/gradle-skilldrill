@@ -9,3 +9,6 @@
 
 rootProject.name = 'gradle-skilldrill'
 include('app')
+include 'edu.isu.cs.cs2263'
+include 'info.java'
+

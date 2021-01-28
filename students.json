@@ -1,0 +1,65 @@
+[
+  {
+    "firstName": "Isaac",
+    "lastName": "Griffith",
+    "courses": [
+      {
+        "number": 1181,
+        "subject": "CS",
+        "title": "Intro to Programming"
+      },
+      {
+        "number": 2263,
+        "subject": "CS",
+        "title": "Advanced OO Programming"
+      },
+      {
+        "number": 4423,
+        "subject": "CS",
+        "title": "Software Evolution"
+      }
+    ]
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Sampson",
+    "courses": [
+      {
+        "number": 1181,
+        "subject": "CS",
+        "title": "Intro to Pro"
+      },
+      {
+        "number": 2263,
+        "subject": "CS",
+        "title": "testval 1"
+      },
+      {
+        "number": 4423,
+        "subject": "CS",
+        "title": "testval 2"
+      }
+    ]
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "James",
+    "courses": [
+      {
+        "number": 1181,
+        "subject": "CS",
+        "title": "Intro to Pro"
+      },
+      {
+        "number": 2263,
+        "subject": "CS",
+        "title": "testval 1"
+      },
+      {
+        "number": 4423,
+        "subject": "CS",
+        "title": "testval 2"
+      }
+    ]
+  }
+]
